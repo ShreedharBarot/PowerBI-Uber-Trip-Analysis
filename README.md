@@ -14,7 +14,7 @@ This Power BI dashboard provides a comprehensive analysis of Uber ride data, off
 ✅ **Interactive Dashboards with Dynamic Filters** 💡  
 
 ## 🚀 Live Demo
-🔗 **Try the Live Dashboard** *(if applicable, insert link here)*
+🔗 [**Live Dashboard**](https://app.powerbi.com/reportEmbed?reportId=bbb4930d-bb93-49e1-9c9a-964535a8a43e&autoAuth=true&ctid=d1f14348-f1b5-4a09-ac99-7ebf213cbc81)
 
 ## 💂 Dataset Information
 The dataset includes trip details such as:
@@ -25,35 +25,25 @@ The dataset includes trip details such as:
 
 ## 🛠 Installation & Setup
 
-To run this project locally, follow these steps:
-
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/yourusername/uber-data-analysis.git
-cd uber-data-analysis
-```
-
-### 2️⃣ Open Power BI File
-- Download and install **Power BI Desktop**.
-- Open `Uber project.pbix` in Power BI.
-
-### 3️⃣ Explore the Dashboard
-- Use filters to analyze trends and ride distributions.
-- Customize visualizations based on requirements.
+### 🔽 Download & Open the Project
+1. Download the Power BI file directly from the repository:  
+   - 📥 **[Uber Project.pbix](Uber%20project.pbix)**  
+2. Open it in **Power BI Desktop** (Make sure you have it installed).
+3. Use filters to analyze trends and ride distributions.
+4. Customize visualizations based on your requirements.
 
 ## 📷 Screenshots
 
 ### **Dashboard Overview**
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](Dashboard_Image.jpeg)
 
 ### **Time Analysis**
-![Time Analysis](screenshots/peak_hour_analysis.png)
+![Time Analysis](Time_Analysis_Image.jpeg)
 
-### **Revenue Insights**
-![Revenue Insights](screenshots/revenue_insights.png)
+### **Details Insights**
+![Details Insights](Details_Image.jpeg)
 
 ## 👨‍💼 Author
-[Your Name]
+[Shreedhar Barot]
 
-## 📚 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
